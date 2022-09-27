@@ -10,6 +10,6 @@ A list app which lets user to create list of item which is locally saved on thei
 
 ### Screenshots
 
-A simple application that lets user to roll two different dice at a same time on just one tap. The numbers on both the dice are generated randomly.
-
-
+[]<img src="https://user-images.githubusercontent.com/86222915/192649639-aab7314c-73a9-482f-b094-e4860be7f69f.jpeg" width=200>
+[]<img src="https://user-images.githubusercontent.com/86222915/192649626-e6830c4f-7399-4222-93ec-25a7fe86672f.jpeg" width=200>
+[]<img src="https://user-images.githubusercontent.com/86222915/192649611-3a5ae39f-2451-4a9f-a3c3-17799f60ec02.jpeg" width=200>
